@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°¹şã8î„úß¹.
+a
+java:S2147"DCombine this catch with the one at line 19, which has the same body.(ï­£Ä8ÌßÌß¹.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ï²à¹.
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ïù–à¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú’Èßûÿÿÿÿ8¢¦îŞ¹.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ôâÁß¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™ã¯8£°ÿß¹.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÌßÌß¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Óµ«Áıÿÿÿÿ8ı´Ïß¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¬¼Åûÿÿÿÿ
