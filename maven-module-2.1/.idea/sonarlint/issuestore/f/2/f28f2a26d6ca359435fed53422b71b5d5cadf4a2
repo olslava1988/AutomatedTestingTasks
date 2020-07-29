@@ -1,0 +1,6 @@
+
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŒ¦‘8†ÙèØ¹.
+g
+java:S1226)"JIntroduce a new variable instead of reusing the parameter "markOnSubject".(šÖ…¢8Ã´ëØ¹.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´™öÁ8õ›ÕØ¹.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¹‚§şÿÿÿÿ8ùˆÜØ¹.
